@@ -1,0 +1,30 @@
+{
+  "age": 25,
+  "hobby": [
+    "coding",
+    "training",
+    "building iot"
+  ],
+  "cars": [
+    {
+      "model1": "BMW 230",
+      "mpg": 27.5
+    },
+    {
+      "model2": "Ford Edge",
+      "mpg": 24.1
+    }
+  ],
+  "name": "khine",
+  "children": [
+    "Ann",
+    "Billy"
+  ],
+  "pets": [
+    "Teddy",
+    "Micky",
+    "Milo",
+    "MoMo",
+    "Mori"
+  ]
+}
